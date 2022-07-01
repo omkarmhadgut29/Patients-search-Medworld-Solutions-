@@ -1,6 +1,6 @@
-### Patients Search APP
+## Patients Search APP
 
-## Requirements and Installation:
+# Requirements and Installation:
 
 1. Python3
 2. Python packages:
@@ -8,7 +8,7 @@
    ii) tkinter
 3. Clone the repository
 
-## Run the APP
+# Run the APP
 
 1. Go to the directory.
 2. Run patients_search.py using the command
